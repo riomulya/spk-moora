@@ -43,5 +43,3 @@ Aplikasi ini dibangun menggunakan framework PHP [Laravel](https://laravel.com).
 ## License
 
 Aplikasi ini berlisensi "open-sourced software" dibawah [MIT license](https://opensource.org/licenses/MIT).
-
-# spk-moora
